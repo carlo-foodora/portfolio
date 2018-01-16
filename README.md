@@ -1,5 +1,5 @@
 ## About me
-![alt text](https://github.com/carlomariaolmi/portfolio/blob/master/images/header.PNG?raw=truev=0.1&px=20 "Logo Title Text 1")
+
 
 
 
@@ -16,11 +16,11 @@ Project 2:  **[Visualizing My Music Taste using Spotify API and Machine Learning
 * **Visualizing Hundreds of My Favorite Songs on Spotify**
 * **Recommending music on Spotify using Machine Learning**
 
-Project 3:  **Interactive Data Visualization of Geospatial Data**
+Project 3:  **A/B Testing: New feature on website**
 
-Projetc 4:  **Portfolio Efficient Frontier**
+Project 4:  **Interactive Data Visualization of Geospatial Data**
 
-Project 5:  **A/B Testing: New feature on website**
+Projetc 5:  **Portfolio Efficient Frontier**
 
 Project 6:  **Stock Market Data Analysis with Python**
 
